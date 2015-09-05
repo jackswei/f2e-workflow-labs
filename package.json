@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "bower": "^1.5.2",
+    "gulp": "^3.9.0",
     "tap": "^1.4.0"
   }
 }
