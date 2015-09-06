@@ -9,7 +9,7 @@ module.exports = {
     loaders: [
       {
         test: /\.css$/, 
-        loader: "style!css!autoprefixer"
+        loader: "style!css"
       }
       // ,
       // {
